@@ -1,0 +1,10 @@
+gradio>=4.0.0
+faiss-cpu
+sentence-transformers
+rank-bm25
+pdfplumber
+beautifulsoup4
+requests
+google-generativeai
+pandas
+torch
