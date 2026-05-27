@@ -61,7 +61,7 @@ python -m rag_hybrid.app
 The Gradio web interface will boot up locally (usually on `http://127.0.0.1:7860`).
 
 
-## Demo
+## Demo Video
 
 ![Hybrid RAG Demo](hybrid_RAG_demo.mp4)
 
