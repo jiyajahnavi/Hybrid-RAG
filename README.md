@@ -15,7 +15,6 @@ A production-quality Hybrid Retrieval-Augmented Generation (RAG) system using a 
 - **Visualizer Table**: Gain perfect insight into *why* chunks were generation candidates, seeing exact score breakdowns for BM25, FAISS, RRF, and the Reranker entirely natively in the UI.
 - **Secure Gemini Generation**: Connects to `gemini-3-flash-preview` for answer generation with strict prompting parameters to minimize hallucination. The API key is entered at runtime and never saved to disk.
 
-
 ## Hybrid RAG Architecture
 
 ![Hybrid RAG Architecture](Hybrid_RAG%20architecture.png)
